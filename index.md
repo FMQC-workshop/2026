@@ -11,10 +11,10 @@ Second Workshop on Formal Methods in Quantum Computing
 <p style="margin-bottom:5mm;"></p>
 
 <p style="text-align: center;font-size:18px">
-co-located with <a href="https://www.floc26.org/">FLoC 2026</a> in Lisbon, July 18 or 19 (TBD)
+co-located with <a href="https://www.floc26.org/">FLoC 2026</a> in Lisbon, July 18
 <br>
 <br>
 
 <!-- <p style="margin-bottom:1cm;"></p> -->
 
-<img src="assets/images/lisbon.jpg" alt="Aarhus"/>
+<img src="assets/images/lisbon.jpg" alt="Lisbon"/>
