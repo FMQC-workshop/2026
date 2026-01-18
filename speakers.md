@@ -25,17 +25,17 @@ layout: home
   </tbody>
 </table>
 
-## [Yu-Fang Chen](https://homepage.iis.sinica.edu.tw/pages/yfc/vita_en.html)
+## [Yu-Fang Chen](https://guluchen.github.io/)
 
 <table class="no-border">
   <tbody>
     <tr>
       <td style="vertical-align:top">
-<strong>TBA</strong>
+<strong>Automata-Based Verification of Size-Parameterized Quantum Circuits</strong>
 
 <br>
 
-
+This talk focuses on how the automata structure in the quantum program verifier AutoQ has evolved, and how these changes enable the verification of size-parameterized quantum circuits. I will explain the motivation behind the new automata design, outline the resulting increase in expressiveness, and discuss what classes of parameterized circuits can now be handled, as well as current limitations.
       </td>
       <td style="width:60px;vertical-align:top;">
         <p>
