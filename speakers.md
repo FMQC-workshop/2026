@@ -73,11 +73,11 @@ This talk focuses on how the automata structure in the quantum program verifier 
   <tbody>
     <tr>
       <td style="vertical-align:top">
-<strong>TBA</strong>
+<strong>New Insights into Counting Complexity and Quantitative Reasoning with Complex Numbers</strong>
 
 <br>
 
-
+In this talk we show recent insights into fine-grained counting complexity and demonstrate how we can efficiently count over semirings and with complex numbers.
       </td>
       <td style="width:60px;vertical-align:top;">
         <p>
