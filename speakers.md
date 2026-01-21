@@ -4,17 +4,17 @@ layout: home
 
 # Invited Speakers
 
-## [Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke) (keynote)
+## [Bob Coecke](https://www.cs.ox.ac.uk/people/bob.coecke/) (keynote)
 
 <table class="no-border">
   <tbody>
     <tr>
       <td style="vertical-align:top">
-<strong>TBA</strong>
+<strong>From quantum in pictures to interpretable and scalable quantum AI</strong>
 
 <br>
 
-
+Over some 20 years we have developed a compositional quantum formalism, called categorical quantum mechanics or quantum picturalism.  We showed that this enabled secondary school students to perform exceptional on an Oxford University post-grad quantum exam.  The same formalism has been used as the basis for a compositional interpretable formalism for NLP, and AI more generally.
       </td>
       <td style="width:60px;vertical-align:top;">
         <p>
