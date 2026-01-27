@@ -46,6 +46,27 @@ This talk focuses on how the automata structure in the quantum program verifier 
   </tbody>
 </table>
 
+## [Tim Coopmans](https://timcoopmans.com/)
+
+<table class="no-border">
+  <tbody>
+    <tr>
+      <td style="vertical-align:top">
+<strong>TBA</strong>
+
+<br>
+
+
+      </td>
+      <td style="width:60px;vertical-align:top;">
+        <p>
+          <img src="assets/images/tim.jpg" alt="Tim" height="200"/>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## [Johannes Klaus Fichte](https://liu.se/en/employee/johfi52)
 
 <table class="no-border">
