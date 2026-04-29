@@ -52,11 +52,11 @@ This talk focuses on how the automata structure in the quantum program verifier 
   <tbody>
     <tr>
       <td style="vertical-align:top">
-<strong>TBA</strong>
+<strong>Minimal-size decision diagrams for quantum-circuit simulation</strong>
 
 <br>
 
-
+Representing quantum states as decision diagrams can make quantum-circuit simulation significantly faster. In this talk, I will focus on Local-Invertible Map Decision Diagrams and discuss the impact of making such decision diagrams as small as possible by using an algorithm to bring the decision diagram into normal form.
       </td>
       <td style="width:60px;vertical-align:top;">
         <p>
