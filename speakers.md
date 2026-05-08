@@ -73,11 +73,10 @@ Representing quantum states as decision diagrams can make quantum-circuit simula
   <tbody>
     <tr>
       <td style="vertical-align:top">
-<strong>TBA</strong>
+<strong>Model Counting: Solving, Complexity, and Applications</strong>
 
 <br>
-
-
+In this talk, I will consider model counting, which asks to output the number of solutions to a given input instance. I will present recent complexity results and a solving approach that employs structural parameters (treewidth) for faster solving. While the algorithm provides a theoretical bound, a direct implementation is, unsurprisingly, practically infeasible. Therefore, we turn our attention to a more practical exploitable direction. Finally, I will illustrate practical applications of counting to analyze and navigate solution spaces, including directions that focus on counting for decision spaces rather than entire solution spaces, significantly improving complexity.
       </td>
       <td style="width:60px;vertical-align:top;">
         <p>
