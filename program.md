@@ -1,0 +1,32 @@
+---
+layout: home
+---
+
+# Program
+
+| <span style="display: inline-block; width:80px">Time</span> | <span style="display: inline-block; width:400px">Program</span> |
+|-----------|----------------|
+| 8:00–9:00 | *Registration* |
+|-----------|----------------|
+| 9:00–10:00<br> | [Bob Coecke (**Keynote**):<br>*From quantum in pictures to interpretable and scalable quantum AI*](speakers#bob-coeck) |
+|-----------|----------------|
+|10:00–10:30| *Coffee break* |
+|-----------|----------------|
+|10:30–11:00<br> | [Tim Coopmans (**Invited talk**):<br>*Minimal-size decision diagrams for quantum-circuit simulation*](speakers#tim-coopmans) |
+|11:00–11:20| Arend-Jan Quist, Marc Farreras, Alexis de Colnet, John van de Wetering, and Alfons Laarman:<br>*From Tensor Networks to Tractable Circuits, and Back* |
+|11:20–11:40| Dimitrios Thanos, Muhammad Mahmoud, and Alfons Laarman:<br>*GPU-Accelerated Quantum Simulation of Stabilizer Circuits* |
+|11:40–12:00| Colin Blake:<br>*A Complete Equational Presentation of Qudit Circuits via Polycontrolled PROPs* |
+|-----------|----------------|
+|12:00–13:20| *Lunch break*  |
+|-----------|----------------|
+|13:20–13:50<br> | [Johannes Klaus Fichte (**Invited talk**):<br>*Model Counting: Solving, Complexity, and Applications*](speakers#johannes-klaus-fichte) |
+|13:50–14:20<br> | [Markus Hecher (**Invited talk**):<br>*New Insights into Counting Complexity and Quantitative Reasoning with Complex Numbers*](speakers#markus-hecher) |
+|14:20–14:40| Joon Lee, Dirck van den Ende, Alfons Laarman, and Henning Basold:<br>*Quantum Physics using Weighted Model Counting* |
+|14:40–15:00| Max Bannach, Thore Gerlach, Jai Grover, and Dolf Huybrechts:<br>*Noisy Quantum Circuit Simulation Via Automated Reasoning* |
+|-----------|----------------|
+|15:00–15:30| *Coffee break* |
+|-----------|----------------|
+|15:30–16:00<br> | [Yu-Fang Chen (**Invited talk**):<br>*Automata-Based Verification of Size-Parameterized Quantum Circuits*](speakers#yu-fang-chen) |
+|16:00–16:20| Jakub Havlík and Ondřej Lengál:<br>*Synthesizing Quantum Circuits using SMT and MILP* |
+|16:20–16:40| Jad Issa, Christophe Chareton, and Romain Péchoux:<br>*Static Resource Analysis of Hybrid Programs with Unbounded Loops* |
+|16:40–17:10 | *Discussion*  |
