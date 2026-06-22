@@ -27,6 +27,6 @@ layout: home
 |15:00–15:30| *Coffee break* |
 |-----------|----------------|
 |15:30–16:00<br> | [Yu-Fang Chen (**Invited talk**):<br>*Automata-Based Verification of Size-Parameterized Quantum Circuits*](speakers#yu-fang-chen) |
-|16:00–16:20| Jakub Havlík and Ondřej Lengál:<br>*Synthesizing Quantum Circuits using SMT and MILP* |
+|16:00–16:20| Jakub Havlík and Ondřej Lengál:<a href="https://excel.fit.vutbr.cz/submissions/2026/042/42_poster.pdf"><br>*Synthesizing Quantum Circuits using SMT and MILP*</a> |
 |16:20–16:40| Jad Issa, Christophe Chareton, and Romain Péchoux:<a href="https://liqcs2026.github.io/assets/pdfs/LIQCS_2026_extended_abstract_13.pdf"><br>*Static Resource Analysis of Hybrid Programs with Unbounded Loops*</a> |
 |16:40–17:10 | *Discussion*  |
