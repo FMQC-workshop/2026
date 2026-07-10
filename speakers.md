@@ -93,11 +93,11 @@ In this talk, I will consider model counting, which asks to output the number of
   <tbody>
     <tr>
       <td style="vertical-align:top">
-<strong>New Insights into Counting Complexity and Quantitative Reasoning with Complex Numbers</strong>
+<strong>New Insights into the Power of Arithmetic for Counting Complexity</strong>
 
 <br>
 
-In this talk we show recent insights into fine-grained counting complexity and demonstrate how we can efficiently count over semirings and with complex numbers.
+In this talk we show recent insights into fine-grained counting complexity. While it is well known that the problem of counting the models of a propositional formula in conjunctive normal form (#SAT) or in disjunctive normal form (#DNF) is complete for #P under Turing reductions, it turns out that we need very little computational resources from Turing reductions. Indeed, it turns out that a single #2DNF call is enough for hardness, as long as we have additional resources well-below P.
       </td>
       <td style="width:60px;vertical-align:top;">
         <p>
