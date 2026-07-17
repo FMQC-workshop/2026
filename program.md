@@ -14,7 +14,7 @@ layout: home
 |-----------|----------------|
 |10:30–11:00<br>Chair: Ondřej Lengál | [Tim Coopmans (**Invited talk**):<br>*Minimal-size decision diagrams for quantum-circuit simulation*](speakers#tim-coopmans) |
 |11:00–11:20| Arend-Jan Quist, Marc Farreras, Alexis de Colnet, John van de Wetering, and Alfons Laarman:<a href="https://arxiv.org/abs/2605.00106"><br>*From Tensor Networks to Tractable Circuits, and Back*</a> |
-|11:20–11:40| Dimitrios Thanos, Muhammad Mahmoud, and Alfons Laarman:<a href="https://arxiv.org/abs/2603.14641"><br>*GPU-Accelerated Quantum Simulation of Stabilizer Circuits*</a> |
+|11:20–11:40| Jaco van de Pol: Optimal Clifford-Circuit Synthesis as SAT and Planning<br><br>(substitute for: Dimitrios Thanos, Muhammad Mahmoud, and Alfons Laarman:<a href="https://arxiv.org/abs/2603.14641"><br>*GPU-Accelerated Quantum Simulation of Stabilizer Circuits*</a>) |
 |11:40–12:00| Colin Blake:<a href="https://arxiv.org/abs/2602.09873"><br>*A Complete Equational Presentation of Qudit Circuits via Polycontrolled PROPs*</a> |
 |-----------|----------------|
 |12:00–13:20| *Lunch break*  |
